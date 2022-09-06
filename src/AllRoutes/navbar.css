@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    background-color: black;
+    display: flex;
+    gap: 50px;
+    height: 40px;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 20px;
+    color: white;
+
+    
+}
+
+Link{
+    text-decoration: none;
+}

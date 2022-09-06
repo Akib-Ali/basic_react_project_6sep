@@ -1,0 +1,15 @@
+ .card{
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+     height: 50px;
+     width: 180px;
+     background-color: gray;
+     margin: auto;
+} 
+
+.cardcontainer{
+    display: grid;
+     grid-template-columns: 1fr 1fr 1fr; 
+     border:2px solid red;
+     gap: 50px;
+}
